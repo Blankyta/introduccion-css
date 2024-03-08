@@ -5,11 +5,11 @@
 }
 
 p{
-    background-color: red;
+    background-color: lightblue;
 }
 
 .destacado{
-    border: 3px solid rgb(0,0,0);
+    border: 3px solid red(0,0,0);
 }
 
 #parrafo-grande{
